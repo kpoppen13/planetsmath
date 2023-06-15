@@ -21,7 +21,8 @@ def sum_function(list):
     for item in list:
         sum += item
     return sum
-
+    
+print("Hello")
 
 def sum_product(list):
     product = 1.0
